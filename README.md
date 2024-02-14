@@ -28,6 +28,10 @@ When Saving, Show alert
 Show the latest 5 saved data.
 ![Screen Capture 2024-02-14 at 1 00 54 PM](https://github.com/ykim7/CurrentWeather/assets/95869608/2a5bc6a3-a010-4476-aea6-abdb458169d9)
 
+GIF File
+![CurrentWeather](https://github.com/ykim7/CurrentWeather/assets/95869608/be0b77a1-e35a-4a0a-ab18-64a95b66fa0f)
+
+
 ## Installation
 
 ```bash
