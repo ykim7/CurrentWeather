@@ -18,15 +18,15 @@ The Current Weather App provides real-time weather information based on the user
 3. Click the "Save Current Weather" button to save the current weather information.
 4. Click the "Show Saved Weathers" button to view previously saved weather records.
 
-## Technology Stack
-
--   React
--   Bootstrap for React
--   Weather API
-
 ## Screenshots
+Main screen
+![Screen Capture 2024-02-14 at 1 00 25 PM](https://github.com/ykim7/CurrentWeather/assets/95869608/5eaa160d-7319-403f-b826-12bae0a7c68f)
 
-(Insert screenshots of your application here.)
+When Saving, Show alert
+![Screen Capture 2024-02-14 at 1 00 38 PM](https://github.com/ykim7/CurrentWeather/assets/95869608/f74f9b04-a3d7-4d51-824e-117fefc4d34f)
+
+Show the latest 5 saved data.
+![Screen Capture 2024-02-14 at 1 00 54 PM](https://github.com/ykim7/CurrentWeather/assets/95869608/2a5bc6a3-a010-4476-aea6-abdb458169d9)
 
 ## Installation
 
