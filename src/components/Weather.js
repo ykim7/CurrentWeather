@@ -179,9 +179,6 @@ const Weather = () => {
                 >
                     Save Current Weather
                 </Button>
-                {/* <Button variant="secondary" onClick={handleShowWeathers}>
-                    Show Saved Weathers
-                </Button> */}
                 <Button
                     variant={isShowed ? "dark" : "secondary"}
                     onClick={ShowButtonOnClick}
